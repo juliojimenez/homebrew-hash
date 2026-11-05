@@ -1,8 +1,8 @@
 class HashShell < Formula
   desc "Modern, POSIX-compliant command line interpreter (shell) for Linux and macOS"
   homepage "https://github.com/juliojimenez/hash"
-  url "https://github.com/juliojimenez/hash/archive/refs/tags/v48.tar.gz"
-  sha256 "f9d8e5b4923d0fd915d6a37c56f1e9e746118729ebb497711453cafb09a9785a"
+  url "https://github.com/juliojimenez/hash/archive/refs/tags/v49.tar.gz"
+  sha256 "a681b174e8524228e0c7417c6298db2b03377532820e130a59090eca67ef83c4"
   license "Apache-2.0"
   head "https://github.com/juliojimenez/hash.git", branch: "main"
 
